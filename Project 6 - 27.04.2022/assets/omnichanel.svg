@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="151" viewBox="0 0 142 151">
+            <g id="Group_1105" data-name="Group 1105" transform="translate(-1055 -92)">
+              <g id="Group_1102" data-name="Group 1102" transform="translate(1112.332 150.139)">
+                <path id="Path_3" data-name="Path 3" d="M52.6,25.039a.422.422,0,0,0-.4-.034L38.12,30.269l-14.152-5.3a.426.426,0,0,0-.6.389l-.009,21.992a.422.422,0,0,0,.168.339L37.791,59.915a.427.427,0,0,0,.508-.005L52.621,47.725a.428.428,0,0,0,.177-.346V25.4A.426.426,0,0,0,52.6,25.039ZM25.753,42.911V28.483l10.291,3.455Zm24.53,3.17L38.045,56.758,25.853,46.068,38.061,33.313Zm.129-17.56V42.949L40.12,31.976Z" transform="translate(-23.358 -24.932)" fill="#3F3A4C"></path>
+              </g>
+              <g id="Rectangle_68" data-name="Rectangle 68" transform="translate(1055 123)" fill="none" stroke="#3F3A4C" stroke-width="2">
+                <rect width="27" height="26" stroke="none"></rect>
+                <rect x="1" y="1" width="25" height="24" fill="none"></rect>
+              </g>
+              <g id="Rectangle_69" data-name="Rectangle 69" transform="translate(1113 92)" fill="none" stroke="#3F3A4C" stroke-width="2">
+                <rect width="27" height="27" stroke="none"></rect>
+                <rect x="1" y="1" width="25" height="25" fill="none"></rect>
+              </g>
+              <g id="Rectangle_70" data-name="Rectangle 70" transform="translate(1170 123)" fill="none" stroke="#3F3A4C" stroke-width="2">
+                <rect width="27" height="26" stroke="none"></rect>
+                <rect x="1" y="1" width="25" height="24" fill="none"></rect>
+              </g>
+              <g id="Rectangle_71" data-name="Rectangle 71" transform="translate(1170 184)" fill="none" stroke="#3F3A4C" stroke-width="2">
+                <rect width="27" height="27" stroke="none"></rect>
+                <rect x="1" y="1" width="25" height="25" fill="none"></rect>
+              </g>
+              <g id="Rectangle_72" data-name="Rectangle 72" transform="translate(1055 184)" fill="none" stroke="#3F3A4C" stroke-width="2">
+                <rect width="27" height="27" stroke="none"></rect>
+                <rect x="1" y="1" width="25" height="25" fill="none"></rect>
+              </g>
+              <g id="Rectangle_73" data-name="Rectangle 73" transform="translate(1113 216)" fill="none" stroke="#3F3A4C" stroke-width="2">
+                <rect width="27" height="27" stroke="none"></rect>
+                <rect x="1" y="1" width="25" height="25" fill="none"></rect>
+              </g>
+              <path id="Path_1903" data-name="Path 1903" d="M8755.5,1070.568V1051.98h45.178" transform="translate(-7687.176 -947.884)" fill="none" stroke="#3F3A4C" stroke-width="2"></path>
+              <path id="Path_1904" data-name="Path 1904" d="M8800.678,1070.568V1051.98H8755.5" transform="translate(-7616.925 -947.884)" fill="none" stroke="#3F3A4C" stroke-width="2"></path>
+              <path id="Path_1905" data-name="Path 1905" d="M8755.5,1051.98v18.588h45.178" transform="translate(-7687.176 -841.296)" fill="none" stroke="#3F3A4C" stroke-width="2"></path>
+              <path id="Path_1906" data-name="Path 1906" d="M8800.678,1051.98v18.588H8755.5" transform="translate(-7616.925 -841.296)" fill="none" stroke="#3F3A4C" stroke-width="2"></path>
+              <line id="Line_64" data-name="Line 64" y2="36.337" transform="translate(1068.323 148.12)" fill="none" stroke="#3F3A4C" stroke-width="2"></line>
+              <line id="Line_65" data-name="Line 65" y2="36.337" transform="translate(1183.794 148.12)" fill="none" stroke="#3F3A4C" stroke-width="2"></line>
+              <line id="Line_66" data-name="Line 66" x1="34" y1="25" transform="translate(1137 174)" fill="none" stroke="#3F3A4C" stroke-width="2"></line>
+              <line id="Line_67" data-name="Line 67" y1="25" x2="34" transform="translate(1081 174)" fill="none" stroke="#3F3A4C" stroke-width="2"></line>
+              <line id="Line_68" data-name="Line 68" x1="31" y2="23" transform="translate(1140 136)" fill="none" stroke="#3F3A4C" stroke-width="2"></line>
+              <line id="Line_69" data-name="Line 69" x2="32" y2="23" transform="translate(1081 136)" fill="none" stroke="#3F3A4C" stroke-width="2"></line>
+              <line id="Line_70" data-name="Line 70" y2="37.952" transform="translate(1127.27 118.243)" fill="none" stroke="#3F3A4C" stroke-width="2"></line>
+              <line id="Line_71" data-name="Line 71" y2="32.299" transform="translate(1127.27 184.457)" fill="none" stroke="#3F3A4C" stroke-width="2"></line>
+            </g>
+          </svg>
